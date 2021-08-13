@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BMI</string>
+    <string name="height_hint">Enter height in CMS</string>
+</resources>
